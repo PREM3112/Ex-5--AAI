@@ -13,7 +13,8 @@ Step 4: Update the state estimate based on the measurement using kf.update().<BR
 Step 5: Store the estimated state in a list.<BR>
 Step 6: Plot the true and estimated positions.<BR>
 <H3>Program:</H3>
-```py
+
+```
 import numpy as np
 
 class KalmanFilter:
@@ -62,12 +63,13 @@ plt.plot([s[0] for s in est_states], label='estimate')
 plt.legend()
 plt.show()
 ```
-Output:
+
+<H3>Output:</H3>
+
+![alt text](<Screenshot 2024-03-13 092752.png>)
 
 
-
-
-Results:
+<H3>Results:</H3>
 Thus, Kalman filter is implemented to predict the next position and   velocity in Python
 
 
