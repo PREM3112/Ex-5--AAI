@@ -64,7 +64,7 @@ plt.legend()
 plt.show()
 ```
 
-Output:
+
 
 <H3>Output:</H3>
 
