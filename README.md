@@ -64,6 +64,8 @@ plt.legend()
 plt.show()
 ```
 
+Output:
+
 <H3>Output:</H3>
 
 ![alt text](<Screenshot 2024-03-13 092752.png>)
