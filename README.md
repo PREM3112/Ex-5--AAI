@@ -61,11 +61,11 @@ plt.plot([s[0] for s in true_states], label='true')
 plt.plot([s[0] for s in est_states], label='estimate')
 plt.legend()
 plt.show()
-
 ```
 
+
 Output:
-![Screenshot 2024-03-13 092752](https://github.com/PREM3112/Ex-5--AAI/assets/145449383/10104eab-c4b4-4265-8050-043bc10e9012)
+
 
 
 
