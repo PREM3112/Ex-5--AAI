@@ -62,7 +62,9 @@ plt.plot([s[0] for s in est_states], label='estimate')
 plt.legend()
 plt.show()
 ```
+```
 Output:
+![Screenshot 2024-03-13 092752](https://github.com/PREM3112/Ex-5--AAI/assets/145449383/d9b5b13d-3f88-4a7a-8e36-88854aef946a)
 
 
 
